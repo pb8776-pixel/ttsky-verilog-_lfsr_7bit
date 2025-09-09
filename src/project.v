@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-module lfsr_parity (
+module tt_um_lfsr_parity (
     input wire clk,
     input wire rst,
     output reg [7:0] lfsr_out
